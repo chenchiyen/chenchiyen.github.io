@@ -98,7 +98,7 @@ html a {
 p {
 	font-size: 15px;
 	font-weight: 400;
-	color: #a6a7aa;
+	color: #343535;
 	margin-bottom: 15px
 }
 
@@ -112,7 +112,7 @@ li a {
 
 a {
 	/*color: #81848f*/
-	color: #6c88ef;
+	color: #4b68d2;
 }
 
 a:active,
@@ -375,7 +375,8 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-title {
 	font-size: 70px;
-	color: #bbccff;
+	color: #1c0af5;
+	background-color: #ffffff30;
 	line-height: 1
 }
 
@@ -388,7 +389,9 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-text {
 	font-size: 25px;
-	color: #bbccff;
+	color: #1c0af5;
+    background-color: #ffffff40;
+	/*color: #bbccff;*/
 }
 
 .promo-block .promo-block-divider {
