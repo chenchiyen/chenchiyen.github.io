@@ -2124,7 +2124,7 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 100%;
 			}
-
+			
 /* List */
 
 	ol {
@@ -2549,6 +2549,20 @@ input, select, textarea {
 			font-size: 0.8em;
 			line-height: 1.5em;
 			margin: 0;
+		}
+/* Bio */
+	.bio {
+		margin: 0 0 0 0;
+	}
+		.bio .image {
+			display: block;
+			margin: 0 0 1.5em 0;
+		}
+
+		.bio p {
+			font-size: 1em;
+			line-height: 1.5em;
+			text-align: center;
 		}
 
 /* Header */
